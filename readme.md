@@ -22,7 +22,7 @@ Here is `some code` in the middle of a sentence.
     of code
 
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Here is how you make [a link](https://www.wikipedia.org/ "Заголовок ссылки").
 
 ![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
 
