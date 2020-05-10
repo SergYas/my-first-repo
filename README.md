@@ -1,29 +1,21 @@
-# This is a large heading
+# Sergey Yashin
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Korolev, in the Moscow region, in the Russia.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence.
+- *1984* by George Orwell
+- *99 francs* by Frédéric Beigbeder
+- *The Heart of a Dog* by Mikhail Bulgakov
 
-    This is
-    a block
-    of code
+### Food
 
+Сooks better than my wife only my mom.
 
-Here is how you make [a link](https://www.wikipedia.org/ "Заголовок ссылки").
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+The best way to get in touch with me is [on email](mailto:for-yadrive@yandex.ru).
